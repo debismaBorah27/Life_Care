@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    html,body{
+    width:100%;
+    height:100%;
+    }
+    .typhoid{
+        color:green;
+        margin-left: 40%;
+        font-size: 40px;
+    }
+    .typ{
+        background-image: url(https://previews.123rf.com/images/larykach/larykach2103/larykach210300064/166067455-stethoscope-notepad-on-pink-background-with-copy-space-medical-flat-lay.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .anc{
+        font-size: 20px;
+    }
+    .ul{
+        font-size: 20px;
+    }
+    .div{
+        font-size: 20px;
+    }

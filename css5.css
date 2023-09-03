@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    html,body{
+    width:100%;
+    height:100%;
+    }
+    .influenza{
+        color:green;
+        margin-left: 40%;
+        font-size: 40px;
+        text-decoration: wavy underline;
+    }
+    .inf{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6J1YSbs4H_BQZmtEDcFLAgC5gJ98xNR0HatDVJfq&s);
+        background-position: center;
+        background-size: cover;
+    }
+    .anc{
+        font-size: 20px;
+    }
+    .ul{
+        font-size: 20px;
+    }
+    .div{
+        font-size: 20px;
+    }

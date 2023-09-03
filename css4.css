@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    html,body{
+    width:100%;
+    height:100%;
+    }
+    .malaria{
+        color:green;
+        margin-left: 40%;
+        font-size: 40px;
+        text-decoration: wavy underline;
+    }
+    .mal{
+        background-image: url(https://media.istockphoto.com/id/1214616402/photo/infected-culex-mosquito-on-white-background.jpg?s=612x612&w=0&k=20&c=gtdWnubWH6wSNUbigxi-lmhhoiELEROrxWtsuxF-dk8=);
+        background-position: center;
+        background-size: cover;
+    }
+    .anc{
+        font-size: 20px;
+    }
+    .ul{
+        font-size: 20px;
+    }
+    .div{
+        font-size: 20px;
+    }

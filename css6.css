@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    html,body{
+    width:100%;
+    height:100%;
+    }
+    .pneumonia{
+        color:green;
+        margin-left: 40%;
+        font-size: 40px;
+        text-decoration: wavy underline;
+    }
+    .pne{
+        background-image: url(https://plus.unsplash.com/premium_photo-1661716898308-37152740f441?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvdmlkJTIwMTl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60);
+        background-position: center;
+        background-size: cover;
+    }
+    .anc{
+        font-size: 20px;
+    }
+    .ul{
+        font-size: 20px;
+    }
+    .div{
+        font-size: 20px;
+    }
